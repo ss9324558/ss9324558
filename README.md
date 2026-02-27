@@ -127,13 +127,19 @@ currently:
 
 </div>
 
+<div align="center">
+
+![snake gif](https://github.com/ss9324558/ss9324558/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
 ---
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ss9324558](https://github.com/ss9324558?achievement=starstruck&tab=achievements&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="98%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ss9324558&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&column=6" />
 
 </div>
 
