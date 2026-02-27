@@ -133,7 +133,7 @@ currently:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ss9324558&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="98%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ss9324558](https://github.com/ss9324558?achievement=starstruck&tab=achievements&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="98%"/>
 
 </div>
 
