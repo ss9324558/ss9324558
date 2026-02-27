@@ -115,7 +115,7 @@ currently:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ss9324558&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f5d4&ring=f72585&fire=f72585&currStreakLabel=00f5d4&sideLabels=00f5d4&dates=e2e8f0" width="60%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=ss9324558&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f5d4&ring=f72585&fire=f72585&currStreakLabel=00f5d4&sideLabels=00f5d4&dates=e2e8f0" width="60%"/>
 
 </div>
 
@@ -139,7 +139,7 @@ currently:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ss9324558&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=ss9324558&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="98%"/>
 
 </div>
 
