@@ -103,13 +103,13 @@ currently:
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ss9324558&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=f72585&text_color=e2e8f0&count_private=true" height="170"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ss9324558&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=e2e8f0&langs_count=8" height="170"/>
 
-</div>
+</div> -->
 
 <br/>
 
@@ -133,17 +133,19 @@ currently:
 
 </div>
 
+<!-- 
 ---
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
+ <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=ss9324558&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="98%"/>
 
-</div>
+</div> 
 
 ---
+-->
 
 ## 🧠 What I'm Up To Right Now
 
